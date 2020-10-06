@@ -1,11 +1,13 @@
 {
     "name":"php-basics",
     "require":{
-        "php":">=7.0.0"
+        "php":">=7.0.0",
+        "guzzle/guzzle": "^3.9"
     },
     "autoload":{
         "psr-4":{
-            "App\\":"src/"
-        }  
+            "App\\":"src/",
+            "Guzzle\\Http\\": "src/Override"
+        }
     }
 }
