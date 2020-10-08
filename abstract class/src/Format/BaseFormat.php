@@ -5,7 +5,7 @@ abstract class BaseFormat {
 
     public function __construct($data)
     {
-        $this->data = $data; 
+        $this->data = $data;
     }
 
     public function getData()
@@ -17,7 +17,7 @@ abstract class BaseFormat {
     {
         $this->data = $data;
     }
-    
+
     public abstract function convert();
 
     public function __toString()

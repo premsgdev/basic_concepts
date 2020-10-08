@@ -20,53 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ce84ab9-89b8-4eb4-b8e3-a6b036db7301" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/phpconcepts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/phpconcepts.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/abstract class/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/abstract class/public/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/abstract class/src/Format/BaseFormat.php" beforeDir="false" afterPath="$PROJECT_DIR$/abstract class/src/Format/BaseFormat.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abstract class/src/Format/JSON.php" beforeDir="false" afterPath="$PROJECT_DIR$/abstract class/src/Format/JSON.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/abstract class/src/Format/XML.php" beforeDir="false" afterPath="$PROJECT_DIR$/abstract class/src/Format/XML.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abstract class/src/Format/YAML.php" beforeDir="false" afterPath="$PROJECT_DIR$/abstract class/src/Format/YAML.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anonymous_functions/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/anonymous_functions/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anonymous_functions/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/anonymous_functions/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anonymous_functions/src/Format/BaseFormat.php" beforeDir="false" afterPath="$PROJECT_DIR$/anonymous_functions/src/Format/BaseFormat.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anonymous_functions/src/Format/FromStringInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/anonymous_functions/src/Format/FromStringInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anonymous_functions/src/Format/JSON.php" beforeDir="false" afterPath="$PROJECT_DIR$/anonymous_functions/src/Format/JSON.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anonymous_functions/src/Format/XML.php" beforeDir="false" afterPath="$PROJECT_DIR$/anonymous_functions/src/Format/XML.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anonymous_functions/src/Format/YAML.php" beforeDir="false" afterPath="$PROJECT_DIR$/anonymous_functions/src/Format/YAML.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dependency_injection/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/dependency_injection/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dependency_injection/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/dependency_injection/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dependency_injection/src/Format/BaseFormat.php" beforeDir="false" afterPath="$PROJECT_DIR$/dependency_injection/src/Format/BaseFormat.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dependency_injection/src/Format/FormatInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/dependency_injection/src/Format/FormatInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dependency_injection/src/Format/FromStringInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/dependency_injection/src/Format/FromStringInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dependency_injection/src/Format/JSON.php" beforeDir="false" afterPath="$PROJECT_DIR$/dependency_injection/src/Format/JSON.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dependency_injection/src/Format/Serializer.php" beforeDir="false" afterPath="$PROJECT_DIR$/dependency_injection/src/Format/Serializer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dependency_injection/src/Format/XML.php" beforeDir="false" afterPath="$PROJECT_DIR$/dependency_injection/src/Format/XML.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dependency_injection/src/Format/YAML.php" beforeDir="false" afterPath="$PROJECT_DIR$/dependency_injection/src/Format/YAML.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interfaces/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/interfaces/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interfaces/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/interfaces/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interfaces/src/Format/BaseFormat.php" beforeDir="false" afterPath="$PROJECT_DIR$/interfaces/src/Format/BaseFormat.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/interfaces/src/Format/FromStringInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/interfaces/src/Format/FromStringInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interfaces/src/Format/JSON.php" beforeDir="false" afterPath="$PROJECT_DIR$/interfaces/src/Format/JSON.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interfaces/src/Format/XML.php" beforeDir="false" afterPath="$PROJECT_DIR$/interfaces/src/Format/XML.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interfaces/src/Format/YAML.php" beforeDir="false" afterPath="$PROJECT_DIR$/interfaces/src/Format/YAML.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_service_container/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/simple_service_container/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_service_container/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/simple_service_container/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_service_container/src/Container.php" beforeDir="false" afterPath="$PROJECT_DIR$/simple_service_container/src/Container.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_service_container/src/Controller/IndexController.php" beforeDir="false" afterPath="$PROJECT_DIR$/simple_service_container/src/Controller/IndexController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_service_container/src/Format/BaseFormat.php" beforeDir="false" afterPath="$PROJECT_DIR$/simple_service_container/src/Format/BaseFormat.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_service_container/src/Format/FormatInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/simple_service_container/src/Format/FormatInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_service_container/src/Format/FromStringInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/simple_service_container/src/Format/FromStringInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_service_container/src/Format/JSON.php" beforeDir="false" afterPath="$PROJECT_DIR$/simple_service_container/src/Format/JSON.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_service_container/src/Format/XML.php" beforeDir="false" afterPath="$PROJECT_DIR$/simple_service_container/src/Format/XML.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_service_container/src/Format/YAML.php" beforeDir="false" afterPath="$PROJECT_DIR$/simple_service_container/src/Format/YAML.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_service_container/src/Service/Serializer.php" beforeDir="false" afterPath="$PROJECT_DIR$/simple_service_container/src/Service/Serializer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typedargs/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/typedargs/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typedargs/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/typedargs/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typedargs/src/Format/BaseFormat.php" beforeDir="false" afterPath="$PROJECT_DIR$/typedargs/src/Format/BaseFormat.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typedargs/src/Format/FromStringInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/typedargs/src/Format/FromStringInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typedargs/src/Format/JSON.php" beforeDir="false" afterPath="$PROJECT_DIR$/typedargs/src/Format/JSON.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typedargs/src/Format/XML.php" beforeDir="false" afterPath="$PROJECT_DIR$/typedargs/src/Format/XML.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typedargs/src/Format/YAML.php" beforeDir="false" afterPath="$PROJECT_DIR$/typedargs/src/Format/YAML.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,11 +41,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="PhpWorkspaceProjectConfiguration">
-    <include_path>
-      <path value="$PROJECT_DIR$/typedargs/vendor/composer" />
-    </include_path>
   </component>
   <component name="ProjectId" id="1iRdn2b5ob9QcD3WcbKAt5z6IEO" />
   <component name="ProjectViewState">
@@ -103,12 +58,13 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\eclipsews\projects\phptut\phpconcepts\namespace\src\Functions" />
+      <recent name="C:\eclipsews\projects\phptut\phpconcepts\namespace" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\eclipsews\projects\phptut\phpconcepts\namespace" />
       <recent name="C:\eclipsews\projects\phptut\phpconcepts\abstract class" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\eclipsews\projects\phptut\phpconcepts\namespace" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -122,7 +78,10 @@
       <workItem from="1601874503944" duration="857000" />
       <workItem from="1601875371814" duration="122000" />
       <workItem from="1601875523721" duration="333000" />
-      <workItem from="1601875867277" duration="1915000" />
+      <workItem from="1601875867277" duration="2650000" />
+      <workItem from="1601957960870" duration="5524000" />
+      <workItem from="1602067479824" duration="608000" />
+      <workItem from="1602131641716" duration="2393000" />
     </task>
     <servers />
   </component>
@@ -146,9 +105,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="207" key="#CLI_Interpreters/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601875686762" />
-    <state x="736" y="432" width="447" height="304" key="ComposerInitDialogKey" timestamp="1601875687768">
+    <state x="736" y="432" width="447" height="304" key="ComposerInitDialogKey" timestamp="1601959209149">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="736" y="432" width="447" height="304" key="ComposerInitDialogKey/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601875687768" />
+    <state x="736" y="432" width="447" height="304" key="ComposerInitDialogKey/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601959209149" />
+    <state x="670" y="243" key="NewPhpClassDialog" timestamp="1601959734985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="670" y="243" key="NewPhpClassDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601959734985" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1601961342859">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601961342859" />
   </component>
 </project>

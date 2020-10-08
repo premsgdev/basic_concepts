@@ -2,7 +2,7 @@
 
 namespace App\Format;
 
-class XML {
+class XML extends BaseFormat {
     protected $data;
 
     public function __construct($data)
@@ -18,7 +18,11 @@ class XML {
     public function setData()
     {
         $this->data = $data;
-        
+
+    }
+    public function convert()
+    {
+        return json_encode($this->data);
     }
 }
-?>
+
